@@ -1,0 +1,9 @@
+list_name,name,label,filter
+District,1,Northern(Rumphi),1
+District,2,Northern(Mzimba),1
+District,3,Central(Kasungu),2
+District,4,Central(Mchinji),2
+District,5,Central(Lilongwe),2
+District,6,Southern(Blantyre),3
+District,7,Southern(Zomba),3
+District,8,Southern(Mulanje),3
